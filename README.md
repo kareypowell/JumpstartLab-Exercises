@@ -1,6 +1,6 @@
-== JumpstartLab Exercises
+## JumpstartLab Exercises
 
-A combination of a few of the (JumpstartLab)[http://tutorials.jumpstartlab.com/] tutorials with the solutions that I implemented. These are just for the Ruby exercises; I'll add the Rails project shortly.
+A combination of a few of the [*JumpstartLab*](http://tutorials.jumpstartlab.com/) tutorials with the solutions that I implemented. These are just for the Ruby exercises; I'll add the Rails project shortly.
 
 ## License
 
